@@ -1,6 +1,9 @@
 # angular-draggable
 Droppable directive for AngularJS. Depends on jQuery UI's droppable.
 
+## Live example!
+Check it out in http://jsfiddle.net/JulianMayorga/XMTqe/
+
 ## Install
 1.  Include 'droppable.js' into your app
 2.  Add 'juli.droppable' as a module dependency to your app.
